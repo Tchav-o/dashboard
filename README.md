@@ -5,6 +5,6 @@ Customizable web dashboard
 
 
 
-Start page is:
+After copy local start page is:
 http://localhost/notes
 
