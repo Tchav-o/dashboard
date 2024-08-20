@@ -1,1 +1,3 @@
 # dashboard
+
+Customizable web dashboard
